@@ -1,6 +1,7 @@
 # Listagem e Criação de Tags com ReactJs
 
 Este projeto tem o intuito de criar uma listagem utilizando React e criação de tags por meio de Mutations.
+Outra funcionalidade adicionada é a possibilidade de fazer uma busca a partir do nome da tags que retornará um ou mais resultado na listagem.
 
 Foi utilizado Tailwind para a estilização.
 
